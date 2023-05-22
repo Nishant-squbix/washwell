@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.reels.app-merged_res-37:/drawable-hdpi_launch_screen.png.flat",
+        "source": "com.reels.app-main-39:/drawable-hdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.reels.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/drawable-xxhdpi_launch_screen.png.flat",
+        "source": "com.reels.app-main-39:/drawable-xxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/drawable-xxhdpi_rn_edit_text_material.xml.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/drawable-xxhdpi/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.reels.app-main-39:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/drawable-ldpi_launch_screen.png.flat",
+        "source": "com.reels.app-main-39:/drawable-ldpi/launch_screen.png"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.reels.app-main-39:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/drawable-xhdpi_launch_screen.png.flat",
+        "source": "com.reels.app-main-39:/drawable-xhdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.reels.app-main-39:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/drawable-mdpi_rn_edit_text_material.xml.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/drawable-mdpi/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/drawable-xhdpi_rn_edit_text_material.xml.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/drawable-xhdpi/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.reels.app-main-39:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.reels.app-main-39:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/drawable-xhdpi_launch_screen.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/drawable-xhdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/drawable-ldpi_launch_screen.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/drawable-ldpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/drawable-xxhdpi_launch_screen.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/drawable-xxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/drawable-xxxhdpi_launch_screen.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/drawable-xxxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.reels.app-main-39:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/drawable-hdpi_launch_screen.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/drawable-hdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/layout_launch_screen.xml.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/drawable_launch_screen.png.flat",
+        "source": "com.reels.app-main-39:/drawable/launch_screen.png"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.reels.app-main-39:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/drawable-ldpi_rn_edit_text_material.xml.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/drawable-ldpi/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.reels.app-main-39:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/drawable-hdpi_rn_edit_text_material.xml.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/drawable-hdpi/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/drawable-mdpi_launch_screen.png.flat",
+        "source": "com.reels.app-main-39:/drawable-mdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/drawable_launch_screen.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/drawable/launch_screen.png"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.reels.app-main-39:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/drawable-mdpi_launch_screen.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/drawable-mdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.reels.app-merged_res-37:/drawable-xxxhdpi_launch_screen.png.flat",
+        "source": "com.reels.app-main-39:/drawable-xxxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-merged_res-37:/drawable-xxxhdpi_rn_edit_text_material.xml.flat",
+        "source": "/Users/nishant/.gradle/daemon/7.5.1/com.reels.app-main-39:/drawable-xxxhdpi/rn_edit_text_material.xml"
+    }
+]

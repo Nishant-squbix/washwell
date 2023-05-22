@@ -1,0 +1,157 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.reels"
+4    android:versionCode="6"
+5    android:versionName="1.1.5" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/nishant/Documents/shortVideo/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/nishant/Documents/shortVideo/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:3:5-67
+12-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:3:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:4:5-65
+13-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:4:22-62
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:5:5-81
+14-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:5:22-78
+15    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+15-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:6:9-75
+15-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:6:26-72
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->[com.facebook.flipper:flipper:0.125.0] /Users/nishant/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+16-->[com.facebook.flipper:flipper:0.125.0] /Users/nishant/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[:react-native-community_netinfo] /Users/nishant/Documents/shortVideo/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+17-->[:react-native-community_netinfo] /Users/nishant/Documents/shortVideo/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+18
+19    <queries>
+19-->[androidx.camera:camera-extensions:1.1.0-beta02] /Users/nishant/.gradle/caches/transforms-3/187251b5e973c6e7f29027a373f972f3/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:24:5-28:15
+20        <intent>
+20-->[androidx.camera:camera-extensions:1.1.0-beta02] /Users/nishant/.gradle/caches/transforms-3/187251b5e973c6e7f29027a373f972f3/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:25:9-27:18
+21            <action android:name="androidx.camera.extensions.action.VENDOR_ACTION" />
+21-->[androidx.camera:camera-extensions:1.1.0-beta02] /Users/nishant/.gradle/caches/transforms-3/187251b5e973c6e7f29027a373f972f3/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:26:13-86
+21-->[androidx.camera:camera-extensions:1.1.0-beta02] /Users/nishant/.gradle/caches/transforms-3/187251b5e973c6e7f29027a373f972f3/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:26:21-83
+22        </intent>
+23    </queries>
+24
+25    <application
+25-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:7:5-26:19
+26        android:name="com.reels.MainApplication"
+26-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:8:7-38
+27        android:allowBackup="false"
+27-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:12:7-34
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.7.0] /Users/nishant/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:icon="@mipmap/ic_launcher"
+30-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:10:7-41
+31        android:label="@string/app_name"
+31-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:9:7-39
+32        android:roundIcon="@mipmap/ic_launcher_round"
+32-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:11:7-52
+33        android:theme="@style/AppTheme"
+33-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:13:7-38
+34        android:usesCleartextTraffic="true" >
+34-->/Users/nishant/Documents/shortVideo/android/app/src/debug/AndroidManifest.xml:8:9-44
+35        <activity
+35-->/Users/nishant/Documents/shortVideo/android/app/src/debug/AndroidManifest.xml:11:9-111
+36            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+36-->/Users/nishant/Documents/shortVideo/android/app/src/debug/AndroidManifest.xml:11:19-83
+37            android:exported="false" />
+37-->/Users/nishant/Documents/shortVideo/android/app/src/debug/AndroidManifest.xml:11:84-108
+38        <activity
+38-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:14:7-25:18
+39            android:name="com.reels.MainActivity"
+39-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:15:9-37
+40            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+40-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:17:9-118
+41            android:exported="true"
+41-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:20:9-32
+42            android:label="@string/app_name"
+42-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:16:9-41
+43            android:launchMode="singleTask"
+43-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:18:9-40
+44            android:windowSoftInputMode="adjustResize" >
+44-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:19:9-51
+45            <intent-filter>
+45-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:21:9-24:25
+46                <action android:name="android.intent.action.MAIN" />
+46-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:22:13-65
+46-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:22:21-62
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:23:13-73
+48-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:23:23-70
+49            </intent-filter>
+50        </activity>
+51
+52        <provider
+52-->[:react-native-image-picker] /Users/nishant/Documents/shortVideo/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+53            android:name="com.imagepicker.ImagePickerProvider"
+53-->[:react-native-image-picker] /Users/nishant/Documents/shortVideo/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+54            android:authorities="com.reels.imagepickerprovider"
+54-->[:react-native-image-picker] /Users/nishant/Documents/shortVideo/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
+55            android:exported="false"
+55-->[:react-native-image-picker] /Users/nishant/Documents/shortVideo/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+56            android:grantUriPermissions="true" >
+56-->[:react-native-image-picker] /Users/nishant/Documents/shortVideo/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+57            <meta-data
+57-->[:react-native-image-picker] /Users/nishant/Documents/shortVideo/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
+58                android:name="android.support.FILE_PROVIDER_PATHS"
+58-->[:react-native-image-picker] /Users/nishant/Documents/shortVideo/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+59                android:resource="@xml/imagepicker_provider_paths" />
+59-->[:react-native-image-picker] /Users/nishant/Documents/shortVideo/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+60        </provider>
+61        <provider
+61-->[androidx.emoji2:emoji2:1.0.0] /Users/nishant/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+62            android:name="androidx.startup.InitializationProvider"
+62-->[androidx.emoji2:emoji2:1.0.0] /Users/nishant/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+63            android:authorities="com.reels.androidx-startup"
+63-->[androidx.emoji2:emoji2:1.0.0] /Users/nishant/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+64            android:exported="false" >
+64-->[androidx.emoji2:emoji2:1.0.0] /Users/nishant/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+65            <meta-data
+65-->[androidx.emoji2:emoji2:1.0.0] /Users/nishant/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+66                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+66-->[androidx.emoji2:emoji2:1.0.0] /Users/nishant/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+67                android:value="androidx.startup" />
+67-->[androidx.emoji2:emoji2:1.0.0] /Users/nishant/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+68            <meta-data
+68-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/nishant/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+69                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+69-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/nishant/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+70                android:value="androidx.startup" />
+70-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/nishant/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+71        </provider>
+72
+73        <uses-library
+73-->[androidx.camera:camera-extensions:1.1.0-beta02] /Users/nishant/.gradle/caches/transforms-3/187251b5e973c6e7f29027a373f972f3/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:31:9-33:40
+74            android:name="androidx.camera.extensions.impl"
+74-->[androidx.camera:camera-extensions:1.1.0-beta02] /Users/nishant/.gradle/caches/transforms-3/187251b5e973c6e7f29027a373f972f3/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:32:13-59
+75            android:required="false" />
+75-->[androidx.camera:camera-extensions:1.1.0-beta02] /Users/nishant/.gradle/caches/transforms-3/187251b5e973c6e7f29027a373f972f3/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:33:13-37
+76
+77        <service
+77-->[androidx.camera:camera-camera2:1.1.0-beta02] /Users/nishant/.gradle/caches/transforms-3/5442aabc1d7e721b115f52ab77ecbd37/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:26:9-35:19
+78            android:name="androidx.camera.core.impl.MetadataHolderService"
+78-->[androidx.camera:camera-camera2:1.1.0-beta02] /Users/nishant/.gradle/caches/transforms-3/5442aabc1d7e721b115f52ab77ecbd37/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:27:13-75
+79            android:enabled="false"
+79-->[androidx.camera:camera-camera2:1.1.0-beta02] /Users/nishant/.gradle/caches/transforms-3/5442aabc1d7e721b115f52ab77ecbd37/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:28:13-36
+80            android:exported="false" >
+80-->[androidx.camera:camera-camera2:1.1.0-beta02] /Users/nishant/.gradle/caches/transforms-3/5442aabc1d7e721b115f52ab77ecbd37/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:29:13-37
+81            <meta-data
+81-->[androidx.camera:camera-camera2:1.1.0-beta02] /Users/nishant/.gradle/caches/transforms-3/5442aabc1d7e721b115f52ab77ecbd37/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:32:13-34:89
+82                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+82-->[androidx.camera:camera-camera2:1.1.0-beta02] /Users/nishant/.gradle/caches/transforms-3/5442aabc1d7e721b115f52ab77ecbd37/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:33:17-103
+83                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+83-->[androidx.camera:camera-camera2:1.1.0-beta02] /Users/nishant/.gradle/caches/transforms-3/5442aabc1d7e721b115f52ab77ecbd37/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:34:17-86
+84        </service>
+85    </application>
+86
+87</manifest>
