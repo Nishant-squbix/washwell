@@ -91,7 +91,7 @@ const ProfileSetUp = ({navigation, route}) => {
           }
         });
       } else {
-        Alert.alert('Go to settings > Reels > Allow camera permission');
+        Alert.alert('Go to settings > Washwell > Allow camera permission');
       }
     });
   };

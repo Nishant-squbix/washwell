@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.reels.app-mergeDebugResources-35:/values-h360dp-land-v13/values-h360dp-land-v13.xml",
+            "outputFile": "com.washwell.app-mergeDebugResources-35:/values-h360dp-land-v13/values-h360dp-land-v13.xml",
             "map": [
                 {
                     "source": "/Users/nishant/.gradle/caches/transforms-3/2fd73835c5f88322cd819e21091ff8cf/transformed/material-1.1.0/res/values-h360dp-land-v13/values-h360dp-land-v13.xml",

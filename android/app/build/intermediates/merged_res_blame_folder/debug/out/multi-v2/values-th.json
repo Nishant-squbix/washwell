@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.reels.app-mergeDebugResources-35:/values-th/values-th.xml",
+            "outputFile": "com.washwell.app-mergeDebugResources-35:/values-th/values-th.xml",
             "map": [
                 {
                     "source": "/Users/nishant/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/res/values-th/values-th.xml",

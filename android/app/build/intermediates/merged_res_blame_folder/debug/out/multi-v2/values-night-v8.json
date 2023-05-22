@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.reels.app-mergeDebugResources-35:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.washwell.app-mergeDebugResources-35:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/Users/nishant/.gradle/caches/transforms-3/2fd73835c5f88322cd819e21091ff8cf/transformed/material-1.1.0/res/values-night-v8/values-night-v8.xml",

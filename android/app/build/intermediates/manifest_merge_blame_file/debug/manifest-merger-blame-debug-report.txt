@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.reels"
+3    package="com.washwell"
 4    android:versionCode="6"
 5    android:versionName="1.1.5" >
 6
@@ -42,7 +42,7 @@
 24
 25    <application
 25-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:7:5-26:19
-26        android:name="com.reels.MainApplication"
+26        android:name="com.washwell.MainApplication"
 26-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:8:7-38
 27        android:allowBackup="false"
 27-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:12:7-34
@@ -67,7 +67,7 @@
 37-->/Users/nishant/Documents/shortVideo/android/app/src/debug/AndroidManifest.xml:11:84-108
 38        <activity
 38-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:14:7-25:18
-39            android:name="com.reels.MainActivity"
+39            android:name="com.washwell.MainActivity"
 39-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:15:9-37
 40            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
 40-->/Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:17:9-118
@@ -95,7 +95,7 @@
 52-->[:react-native-image-picker] /Users/nishant/Documents/shortVideo/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 53            android:name="com.imagepicker.ImagePickerProvider"
 53-->[:react-native-image-picker] /Users/nishant/Documents/shortVideo/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
-54            android:authorities="com.reels.imagepickerprovider"
+54            android:authorities="com.washwell.imagepickerprovider"
 54-->[:react-native-image-picker] /Users/nishant/Documents/shortVideo/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
 55            android:exported="false"
 55-->[:react-native-image-picker] /Users/nishant/Documents/shortVideo/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
@@ -112,7 +112,7 @@
 61-->[androidx.emoji2:emoji2:1.0.0] /Users/nishant/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
 62            android:name="androidx.startup.InitializationProvider"
 62-->[androidx.emoji2:emoji2:1.0.0] /Users/nishant/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
-63            android:authorities="com.reels.androidx-startup"
+63            android:authorities="com.washwell.androidx-startup"
 63-->[androidx.emoji2:emoji2:1.0.0] /Users/nishant/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
 64            android:exported="false" >
 64-->[androidx.emoji2:emoji2:1.0.0] /Users/nishant/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37

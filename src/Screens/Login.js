@@ -76,10 +76,12 @@ const Login = ({navigation}) => {
     axios(config)
       .then(function (response) {
         console.log(JSON.stringify(response.data));
+        setLoader(false);
         navigation.navigate('Otp', mobileNumber);
       })
       .catch(function (error) {
         console.log(error);
+        setLoader(false);
       });
   };
 
@@ -185,7 +187,9 @@ const Login = ({navigation}) => {
         <View style={styles.btnview}>
           <TouchableOpacity
             onPress={
-              () => usersignin()
+              () => {
+                setLoader(true), usersignin();
+              }
               // navigation.navigate('Otp')
             }>
             <MainBtn title="Login" />

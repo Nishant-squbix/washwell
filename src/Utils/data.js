@@ -12,7 +12,7 @@ export const data = [
     comment: 101,
     like: '121.3 k',
     likeStatus: true,
-    postText: 'React Native reels with actions shown in this project',
+    postText: 'React Native Washwell with actions shown in this project',
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ export const data = [
     comment: 100,
     like: '10.3 k',
     likeStatus: false,
-    postText: 'React Native reels with actions shown in this project',
+    postText: 'React Native Washwell with actions shown in this project',
   },
   {
     id: 3,
@@ -42,7 +42,7 @@ export const data = [
     comment: 10,
     like: '121',
     likeStatus: true,
-    postText: 'React Native reels with actions shown in this project',
+    postText: 'React Native Washwell with actions shown in this project',
   },
   {
     id: 4,
@@ -57,7 +57,7 @@ export const data = [
     comment: 300,
     like: '150.3 k',
     likeStatus: false,
-    postText: 'React Native reels with actions shown in this project',
+    postText: 'React Native Washwell with actions shown in this project',
   },
   {
     id: 5,
@@ -72,6 +72,6 @@ export const data = [
     comment: 320,
     like: '121.3 k',
     likeStatus: true,
-    postText: 'React Native reels with actions shown in this project',
+    postText: 'React Native Washwell with actions shown in this project',
   },
 ];

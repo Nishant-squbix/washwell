@@ -10,7 +10,7 @@ import Loader from '../Loader/Loader';
 import {videoData} from './Database';
 import SingleReel from './SingleReel';
 
-const ReelsComponent = () => {
+const WashwellComponent = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [dato, setDato] = useState();
   const [loader, setLoader] = useState(false);
@@ -67,4 +67,4 @@ const ReelsComponent = () => {
   );
 };
 
-export default ReelsComponent;
+export default WashwellComponent;

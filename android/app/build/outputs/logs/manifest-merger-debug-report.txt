@@ -190,7 +190,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nish
 	android:name
 		ADDED from /Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:8:7-38
 		ADDED from /Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:8:7-38
-activity#com.reels.MainActivity
+activity#com.washwell.MainActivity
 ADDED from /Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:14:7-25:18
 	android:label
 		ADDED from /Users/nishant/Documents/shortVideo/android/app/src/main/AndroidManifest.xml:16:9-41
