@@ -51,9 +51,13 @@ const Otp = ({navigation, route}) => {
 
     axios(config)
       .then(function (response) {
-        console.log(JSON.stringify(response.data));
+        console.log(JSON.stringify(response.data.valid));
         setErr(false);
-        navigation.navigate('ProfileSetUp');
+        if (response.data.valid) {
+          navigation.navigate('ProfileSetUp');
+        } else {
+          setErr(true);
+        }
       })
       .catch(function (error) {
         console.log(error);
